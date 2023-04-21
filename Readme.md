@@ -1,1 +1,1 @@
-terminal hexadecimal generator with a textual interface.
+gamified terminal hexadecimal generator with a textual interface.
